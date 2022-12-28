@@ -1,6 +1,7 @@
 # PYTHON3
   ##  2022-12-18
-  - Start python and java
+  - Setting python in VScode
+  - Start python
   - No.25304
 
   ##  2022-12-19
@@ -20,7 +21,7 @@
   - No.1427
     - list(map(int, sys.stdin.readline().rstrip())) : 공백없이 연속으로 입력받는 경우 배열 입력
 
-  ##  2022-12-
-
 
 # JAVA
+  ##  2022-12-28
+    - Setting java in VScode
