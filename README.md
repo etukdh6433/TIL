@@ -18,7 +18,7 @@
   - No.2751
   - No.2108
   - No.1427
-    = list(map(int, sys.stdin.readline().rstrip())) : 공백없이 연속으로 입력받는 경우 배열 입력
+    - list(map(int, sys.stdin.readline().rstrip())) : 공백없이 연속으로 입력받는 경우 배열 입력
 
   ##  2022-12-
 
