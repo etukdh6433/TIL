@@ -24,4 +24,4 @@
 
 # JAVA
   ##  2022-12-28
-    - Setting java in VScode
+  - Setting java in VScode
